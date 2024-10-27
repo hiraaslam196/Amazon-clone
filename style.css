@@ -184,5 +184,8 @@ h3 {
  .del {
     display: none;
  }
+    .ch {
+    height: 15px;
+   }
   
   }
